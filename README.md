@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Dan!
+⏚Lighting Electrics is my Game!
+
 <!--
 **DARNDESIGNS/DARNDESIGNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
